@@ -1,7 +1,6 @@
 package com.sayem.base;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.PageFactory;
 import org.reflections.Reflections;
 
 import java.util.Set;

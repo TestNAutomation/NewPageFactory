@@ -18,17 +18,12 @@ public class TestPageFactory {
 
     WebDriver driver;
 
-    /**
-     * @throws java.lang.Exception
-     */
     @BeforeTest
     public void setUp() throws Exception {
         driver = new FirefoxDriver();
     }
 
-    /**
-     * @throws java.lang.Exception
-     */
+
     @AfterTest
     public void tearDown() throws Exception {
         driver.close();
