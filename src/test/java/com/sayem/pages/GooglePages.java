@@ -1,11 +1,18 @@
 package com.sayem.pages;
 
 
-import com.sayem.IPages;
+import com.sayem.TopMenu;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 
 
-public class GooglePages implements IPages {
+public class GooglePages implements TopMenu {
+    @FindBy(css = "#gbqfq")
+    WebElement searchBox;
+
+    @FindBy(css = "#gbqfb")
+    WebElement searchButton;
 
     public GooglePages(WebDriver driver) {
         if (!driver.getCurrentUrl().contains("google.com")) {
@@ -13,8 +20,9 @@ public class GooglePages implements IPages {
         }
     }
 
-
     public void search(String query) {
+        searchBox.sendKeys(query);
+        searchButton.click();
 
     }
 }

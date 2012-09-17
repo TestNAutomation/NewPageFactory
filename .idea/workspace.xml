@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb662dac-6f8f-4e3f-92c8-9aacd321bbaf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MOVED" beforePath="C:\Users\Administrator\Dropbox\IdeaProjects\NewPageFactory\src\test\java\com\sayem\IPages.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/TopMenu.java" />
+      <change type="MOVED" beforePath="C:\Users\Administrator\Dropbox\IdeaProjects\NewPageFactory\src\test\java\com\sayem\pages\YahooPagePages.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java" />
     </list>
     <ignored path="NewPageFactory.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,10 +66,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PageFactory.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PageFactory.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/base/PageFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="27" selection-start="585" selection-end="585" vertical-scroll-proportion="0.43463686">
+            <state line="13" column="75" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,37 +80,46 @@
       <file leaf-file-name="GooglePages.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IPages.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/IPages.java">
+      <file leaf-file-name="TopMenu.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/TopMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="21" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+            <state line="2" column="17" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestPageFactory.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TestPageFactory.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="31" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0">
+            <state line="55" column="24" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.9628378">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="YahooPagePages.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPagePages.java">
+      <file leaf-file-name="YahooPages.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="41" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+            <state line="18" column="22" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="45" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,10 +145,14 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/TestNewPageFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/pages/GoogleSearchPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/base/PageFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPagePages.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sayem/IPages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/iTopMenu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/TopMenu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java" />
       </list>
     </option>
   </component>
@@ -149,6 +168,25 @@
     <option name="y" value="2" />
     <option name="width" value="1824" />
     <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -329,6 +367,7 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/sayem" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Project" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
@@ -520,7 +559,11 @@
       <created>1347847167021</created>
       <updated>1347847167021</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New Page Factory">
+      <created>1347847350964</created>
+      <updated>1347847350964</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -542,7 +585,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1659091" sideWeight="0.67065215" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -612,28 +655,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="45" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.67597765">
+        <state line="36" column="45" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/IPages.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/base/PageFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="21" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="31" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPagePages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="41" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+        <state line="13" column="75" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -642,17 +671,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/base/PageFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="27" selection-start="585" selection-end="585" vertical-scroll-proportion="0.43463686">
+        <state line="18" column="22" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/TopMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="24" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.9628378">
+          <folding />
         </state>
       </provider>
     </entry>
