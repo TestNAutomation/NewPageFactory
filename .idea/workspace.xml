@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb662dac-6f8f-4e3f-92c8-9aacd321bbaf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MOVED" beforePath="C:\Users\Administrator\Dropbox\IdeaProjects\NewPageFactory\src\test\java\com\sayem\IPages.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/TopMenu.java" />
-      <change type="MOVED" beforePath="C:\Users\Administrator\Dropbox\IdeaProjects\NewPageFactory\src\test\java\com\sayem\pages\YahooPagePages.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java" afterPath="$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java" />
     </list>
     <ignored path="NewPageFactory.iws" />
@@ -80,7 +76,7 @@
       <file leaf-file-name="GooglePages.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="221" selection-end="332" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,7 +85,7 @@
       <file leaf-file-name="TopMenu.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/TopMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="17" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+            <state line="6" column="28" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -98,7 +94,7 @@
       <file leaf-file-name="TestPageFactory.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="24" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.9628378">
+            <state line="52" column="62" selection-start="1418" selection-end="1418" vertical-scroll-proportion="0.5574324">
               <folding />
             </state>
           </provider>
@@ -107,7 +103,7 @@
       <file leaf-file-name="YahooPages.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
+            <state line="23" column="29" selection-start="659" selection-end="659" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -563,7 +559,11 @@
       <created>1347847350964</created>
       <updated>1347847350964</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New Page Factory">
+      <created>1347849387936</created>
+      <updated>1347849387936</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -584,7 +584,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1659091" sideWeight="0.67065215" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1659091" sideWeight="0.67065215" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -669,32 +669,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/TopMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="28" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/GooglePages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
+        <state line="10" column="0" selection-start="221" selection-end="332" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/pages/YahooPages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
+        <state line="23" column="29" selection-start="659" selection-end="659" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/TopMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sayem/testcases/TestPageFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="24" selection-start="1526" selection-end="1526" vertical-scroll-proportion="0.9628378">
+        <state line="52" column="62" selection-start="1418" selection-end="1418" vertical-scroll-proportion="0.5574324">
           <folding />
         </state>
       </provider>

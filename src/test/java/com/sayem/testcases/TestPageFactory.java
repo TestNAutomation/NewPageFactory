@@ -38,6 +38,8 @@ public class TestPageFactory {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 
         page.search("Selenium");
+
+        // I am using it for temporary
         Thread.sleep(30000);
 
         //See we are on a Google page.
@@ -48,9 +50,15 @@ public class TestPageFactory {
 
         driver.navigate().to("http://www.yahoo.com");
         page = PageFactory.constructPage(driver, TopMenu.class);
+
+        page.search("Selenium");
+        // I am using it for temporary
+        Thread.sleep(30000);
+
         //See we are not on a Yahoo page.
         assertTrue(page instanceof YahooPages);
         assertFalse(page instanceof GooglePages);
+
     }
 
 }
